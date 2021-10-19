@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Mk.Ajad",
+        "price": "300",
+        "description": "That is a best  doctor , this doctor pasent good relation our hospital, Dental Speacial",
+        "img": "https://i.ibb.co/9pvTw0c/default.png"
+    },
+    {
+        "id": 2,
+        "name": "Ajij Ahamed",
+        "price": "100",
+        "description": "That is a best  doctor , this doctor pasent good relation our hospital Hart Speacial",
+        "img": "https://i.ibb.co/jV24Xjr/Dr-A-S-M-Salimullah.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sahadad Holader",
+        "price": "150",
+        "description": "That is a best  doctor , this doctor pasent good relation our hospital NewroSiemce Speacial",
+        "img": "https://i.ibb.co/Lr1FQbd/Dr-J-M-Ariful-Islam.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Mita rahaman",
+        "price": "180",
+        "description": "That is a best  doctor , this doctor pasent good relation our Sckin Speacial",
+        "img": "https://i.ibb.co/MkzfgqT/Dr-Kamrun-Sattar-Dalia.jpg"
+    },
+    {
+        "id": 5,
+        "name": "sajid mahamusd",
+        "price": "100",
+        "description": "That is a best  doctor , this doctor pasent good relation our hospital Dental Speacial.",
+        "img": "https://i.ibb.co/pzMFT71/Dr-Mahmudul-Haque.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Lili Asosan",
+        "price": "300",
+        "description": "That is a best  doctor , this doctor pasent good relation our hospital Gastrology Speacial",
+        "img": "https://i.ibb.co/WKGX13j/Dr-Sayeda-Begum.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Sahana korim",
+        "price": "300",
+        "description": "That is a best  doctor , this doctor pasent good relation our hospital LIbar Speacial",
+        "img": "https://i.ibb.co/vhBPRjq/Dr-Tohfatul-Jannat-Shampa.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Jahangir Alom",
+        "price": "300",
+        "description": "That is a best  doctor , this doctor pasent good relation our hospital Heair Speacial",
+        "img": "https://i.ibb.co/0XfwdVV/Prof-Dr-Md-Jahangir-Hossain-Bhuiyan.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Mohasin Ahamed",
+        "price": "300",
+        "description": "That is a best  doctor , this doctor pasent good relation our hospital Gastrology Speacial",
+        "img": "https://i.ibb.co/WHtfC0g/Prof-Dr-Md-Mohsin-Hossain.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Rofikul Islam",
+        "price": "300",
+        "description": "That is a best  doctor , this doctor pasent good relation our hospital  Heair Speacial",
+        "img": "https://i.ibb.co/YpSFYm9/Professor-Dr-Rafiqul-Islam.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Dr.Masum Ahamed",
+        "price": "300",
+        "description": "That is a best  doctor , this doctor pasent good relation our hospital Gastrology Speacial",
+        "img": "https://i.ibb.co/9pvTw0c/default.png"
+    },
+    {
+        "id": 6,
+        "name": "Dr.Sayem",
+        "price": "300",
+        "description": "That is a best  doctor , this doctor pasent good relation our hospital Medichin Speacial",
+        "img": "https://i.ibb.co/9pvTw0c/default.png"
+    }
+]
